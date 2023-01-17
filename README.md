@@ -32,7 +32,7 @@ python 109550155_HW5_inference.py
 ```
 可以得到`109550155.csv`。
 ## result
-我在validation set上測試時，task1可到100%，task2約為99.7%，而task3落在99%
+我在validation set上測試時，task1可到100%，task2約為99.7%，而task3落在99%  
 public scoreboard上是15/108  
 而在private scoreboard上的成績為21/108：
 ![](figure/final_score.png)
