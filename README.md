@@ -1,6 +1,6 @@
 # ML_CAPTCHA_SOLVER
 這是一個關於[kaggle競賽](https://www.kaggle.com/competitions/captcha-hacker/overview)的作品呈現，透過以下流程能成功復現，程式碼解釋以及相關實驗可以詳見`109550155_HW5.pdf`。
-
+簡單來說是使用Swin Transformer來分類，而針對第二個與第三個任務，因為資料量較少，因此運用transfer learning，即繼承前一個任務訓練完的權重來開始訓練。
 ## task description
 使模型能夠正確分辨以下三種任務：
 1.只有一個數字：  
